@@ -2,7 +2,7 @@
 name = "crlfix"
 version = "0.1.0"
 edition = "2024"
-description = "A cross-platform port of dos2unix written in Rust, converts text file line endings between CRLF and LF"
+description = "A cross-platform port of dos2unix written in Rust, converts text file line endings from CRLF to LF"
 license = "MIT"
 repository = "https://github.com/da-moon/crlfix"
 documentation = "https://docs.rs/crlfix"
